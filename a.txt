@@ -1,1 +1,0 @@
-writing contents in a.txt
